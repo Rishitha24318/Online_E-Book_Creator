@@ -1,0 +1,14 @@
+# Never upload secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies
+**/node_modules/
+
+# Build files
+**/dist/
+**/build/
+
+# Backup archives
+*.zip
